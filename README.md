@@ -38,7 +38,7 @@ The underwater simple test showed that Fifi can move straight, up-down and left-
 
 Unfortunately, the test proved that Fifi is not waterproof.
 
-[![Fifi]( https://github.com/magape/Fifi/blob/8750d0b7597c1b4b8ead5aec5d99545ad5d937d7/img/Youtube_Fifi.png)](https://youtu.be/WQkzO7SjSzM)
+[![Fifi](https://github.com/magape/Fifi/blob/8750d0b7597c1b4b8ead5aec5d99545ad5d937d7/img/Youtube_Fifi.png =50%x)](https://youtu.be/WQkzO7SjSzM)
 
 ## Credits
 
