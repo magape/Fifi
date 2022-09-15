@@ -11,21 +11,31 @@ The mechanical parts are 3D printed using the [stl files](https://github.com/mag
 
 <img src=https://github.com/magape/Fifi/blob/1faf09c83bfcbcf30c4c174d3087885c5e1e3375/img/IMG_20210404_232729.jpg title="3D printing parts 1" width=90%>
 
-The head, tail actuator, and dorsal actuators are bonded to the fish body with glue. The down cover is assembled with two M2 nuts screwed in two M2 inserts attached to the fish body.
+The head, tail actuator, and dorsal actuators are bonded to the fish body with glue. 
+
+The down cover is assembled with two M2 nuts screwed in two M2 inserts attached to the fish body.
 
 <img src=https://github.com/magape/Fifi/blob/71b6a8adc576c3084e7cf7b84f8646a2b4326ab5/img/IMG_20210410_231636.jpg title="Fifi assembled" width=90%>
 
 ## Electrical part
 
-The robot is powered by a 2s LiPo battery. There are two magnetic actuators which acts the dorsal and caudal fins. The actuators are controlled by an Arduino Nano board, via a DRV8838 dual driver module.
+The robot is powered by a 2s LiPo battery. 
+
+There are two magnetic actuators which acts the dorsal and caudal fins. 
+
+The actuators are controlled by an Arduino Nano board, via a DRV8838 dual driver module.
+
 For the dry test, the electrical assembly was prototyped on a breadboard.
+
 <img src=https://github.com/magape/Fifi/blob/451dab6ceee6f8d0d2699cd187de2251b30815c9/etc/IMG_20210411_162001.jpg title="Circuit on breadboard" width=90%>
 
 For the wet test, instead of using the breadboard, we soldered the wires to obtain a smaller circuit which could be introduced inside of the fish body.
 
 <img src=https://github.com/magape/Fifi/blob/451dab6ceee6f8d0d2699cd187de2251b30815c9/etc/IMG_20210518_101144.jpg title="Line sensor - bottom" width=90%>
 
-The underwater simple test showed that Fifi can move straight, up-down and left-right in water. Unfortunately, the test proved that Fifi is not waterproof.
+The underwater simple test showed that Fifi can move straight, up-down and left-right in water.
+
+Unfortunately, the test proved that Fifi is not waterproof.
 
 [![Fifi]( https://github.com/magape/Fifi/blob/8750d0b7597c1b4b8ead5aec5d99545ad5d937d7/img/Youtube_Fifi.png)](https://youtu.be/WQkzO7SjSzM)
 
