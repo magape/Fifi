@@ -9,7 +9,7 @@ The mechanical parts are 3D printed using the [stl files](https://github.com/mag
 
 <img src=https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/img/IMG_20210403_213018.jpg title="3D printing parts 1" width=90%>
 
-<img src=https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/img/IMG_20210403_213018.jpg title="3D printing parts 1" width=90%>
+<img src=https://github.com/magape/Fifi/blob/1faf09c83bfcbcf30c4c174d3087885c5e1e3375/img/IMG_20210404_232729.jpg title="3D printing parts 1" width=90%>
 
 The head, tail actuator, and dorsal actuators are bonded to the fish body with glue. The down cover is assembled with two M2 nuts screwed in two M2 inserts attached to the fish body.
 
