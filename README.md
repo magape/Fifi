@@ -5,13 +5,14 @@ Fifi (First Fish) is a robotic fish I started to develop in early 2021. The deve
 <img src= https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/3D/img/fifi.png title="Fifi" width=50%>
 
 ## Mechanical parts
+
 The mechanical parts are 3D printed using the [stl files](https://github.com/magape/Fifi/tree/main/3D/stl).
 
 <img src=https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/img/IMG_20210403_213018.jpg title="3D printing parts 1" width=50%>
 
 <img src=https://github.com/magape/Fifi/blob/1faf09c83bfcbcf30c4c174d3087885c5e1e3375/img/IMG_20210404_232729.jpg title="3D printing parts 1" width=50%>
 
-The head, tail actuator, and dorsal actuators are bonded to the fish body with glue. 
+The head, tail actuator, and dorsal actuator are bonded to the fish body with glue. 
 
 The down cover is assembled with two M2 nuts screwed in two M2 inserts attached to the fish body.
 
@@ -31,7 +32,7 @@ For the dry test, the electrical assembly was prototyped on a breadboard.
 
 For the wet test, instead of using the breadboard, we soldered the wires to obtain a smaller circuit which could be introduced inside of the fish body.
 
-<img src=https://github.com/magape/Fifi/blob/451dab6ceee6f8d0d2699cd187de2251b30815c9/etc/IMG_20210518_101144.jpg title="Line sensor - bottom" width=50%>
+<img src=https://github.com/magape/Fifi/blob/451dab6ceee6f8d0d2699cd187de2251b30815c9/etc/IMG_20210518_101144.jpg title="Soldered circuit" width=50%>
 
 The underwater simple test showed that Fifi can move straight, up-down and left-right in water.
 
