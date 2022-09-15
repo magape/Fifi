@@ -7,16 +7,13 @@ Fifi (First Fish) is a robotic fish I started to develop in early 2021. The deve
 ## Mechanical parts
 The mechanical parts are 3D printed using the [stl files](https://github.com/magape/Fifi/tree/main/3D/stl).
 
-<img src=https://github.com/magape/uBot/blob/e107dde5819811c388ca1cb4512f05e274810612/3D/img/ubot_annotated_en.png title="uBot parts" width=90%>
-
-Some mechanical parts (chassis, motor brackets, and wheels) are 3D printed using available [stl files](https://github.com/magape/uBot/tree/main/3D/stl).
-
 <img src= https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/img/IMG_20210403_213018.jpg title=”3D printing parts 1” width = 90%>
 
 <img src= https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/img/IMG_20210404_232646.jpg title=”3D printing parts 2” width = 90%>
 
 The head, tail actuator, and dorsal actuators are bonded to the fish body with glue. The down cover is assembled with two M2 nuts screwed in two M2 inserts attached to the fish body.
- [pictures](https://github.com/magape/uBot/tree/main/img) showing the step-by-step process.
+
+<img src=https://github.com/magape/Fifi/blob/71b6a8adc576c3084e7cf7b84f8646a2b4326ab5/img/IMG_20210410_231636.jpg title="Fifi assembled" width=90%>
 
 ## Electrical part
 
