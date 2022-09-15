@@ -1,6 +1,8 @@
 # Fifi
 
-Fifi (First Fish) is a robotic fish I started to develop in early 2021. The development of Fifi is described in an [article](https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/Fifi_C16-67-84_Ro.pdf) published in 2021.
+Fifi (First Fish) is a robotic fish I started to develop in early 2021. 
+
+The development of Fifi is described in an [article](https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/Fifi_C16-67-84_Ro.pdf) published in 2021.
 
 <img src= https://github.com/magape/Fifi/blob/c8d3c93399d7731a9bf55d394859fb79013eebce/3D/img/fifi.png title="Fifi" width=50%>
 
